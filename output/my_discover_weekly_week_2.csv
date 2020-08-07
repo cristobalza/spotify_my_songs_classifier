@@ -1,0 +1,31 @@
+,artist,album,track_name,track_id,danceability,energy,key,loudness,mode,speechiness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature
+0,BLUE ENCOUNT,Polaris (Special Edition),Polaris,1f6HC5dTviPmopQjYi4uVT,0.517,0.939,8,-2.546,1,0.0938,0.00237,0.0814,0.564,94.959,224360,4
+1,Platina Jazz,"Anime Standards, Vol. 6","The Real Folk Blues (From ""Cowboy Bepop"") (feat. Thomas Eby)",0ElNBPBUjvDgs6Y4xkRGnI,0.63,0.612,4,-9.786,0,0.0463,0.0664,0.293,0.495,91.417,413700,4
+2,Centimillimental,Kizuato,Kizuato,6bBTOkYn0vJJ33kH0IbZ0S,0.398,0.936,1,-1.717,0,0.0943,0.0,0.305,0.691,177.824,243746,4
+3,Carlos Castro,"Komm Susser Tod (From ""The End of Evangelion"")","Komm Susser Tod (From ""The End of Evangelion"")",0SXHvGenEK0lvtVifV5Fp9,0.683,0.229,8,-12.853,1,0.03,0.0481,0.16,0.67,76.002,258351,4
+4,Martha Psyko,Anime II,"Perfect Time (From ""Nanatsu No Taizai"")",392IKn7HiiNVuFJl64WV8Y,0.476,0.95,4,-5.635,0,0.106,0.698,0.324,0.45,126.452,193074,4
+5,Jonathan Parecki,"Gurenge (From ""Kimetsu no Yaiba"")","Gurenge (From ""Kimetsu no Yaiba"")",3qWfXYgQIUcT4Ttzjc4PAc,0.346,0.827,4,-4.512,0,0.0366,0.868,0.0472,0.311,135.105,94030,4
+6,ALI,Wild Side,Wild Side,3UknZzYzAhqcCVPahU5FY1,0.617,0.923,8,-4.718,1,0.108,0.00361,0.341,0.713,134.081,158500,4
+7,神前 暁,TVアニメ「BEASTARS」オリジナルサウンドトラック,BEASTARS,1Iiq3tVtUZF0y8TYRENOHv,0.192,0.36,2,-10.572,0,0.0287,0.959,0.28,0.277,144.565,78000,3
+8,Eddosaster,Ya Me Lo Se (B.O.Y.S.),Ya Me Lo Se (B.O.Y.S.),0llKUIp0i1akXeRXKQzpbr,0.537,0.516,6,-9.049,0,0.243,0.0,0.236,0.691,203.766,172941,3
+9,Missa Sinfonia,La moderna sociedad del odio,La moderna sociedad del odio,5CNKk3VgvIq4kBg69Bxeiv,0.763,0.744,0,-6.794,1,0.132,0.0,0.337,0.48,120.081,142538,4
+10,Bastiancortesxv,Karma,Karma,1NfUuhBohlIujpbCWP31cK,0.587,0.394,8,-12.978,0,0.0953,0.0,0.262,0.211,163.71,237020,4
+11,キャロル&チューズデイ(Vo.Nai Br.XX&Celeina Ann),Kiss Me/Hold Me Now,Kiss Me,2QcjNoNPdkYy0RqPFoRKrk,0.659,0.645,4,-5.682,1,0.0688,0.0,0.139,0.461,95.983,240800,4
+12,Megumi Ogata,アニメグ。25th Incomplete Edition,"Komm, susser Tod",0lhFiW734Lwrgu4v9KQcv0,0.518,0.715,0,-5.932,0,0.0257,0.0111,0.376,0.536,75.986,390013,4
+13,PianoDeuss,"A Cruel Angel's Thesis (Opening Theme from ""Evangelion"")","A Cruel Angel's Thesis (Opening Theme from ""Evangelion"")",4NXOim8crPQRhrBHcxxxVL,0.404,0.13,3,-20.867,1,0.0413,0.951,0.123,0.306,65.481,99720,4
+14,Schutmaat Trio,4,Bufón,4t32rZJ1KFKsb3K3xTYNrG,0.581,0.6,7,-6.538,0,0.0317,0.000969,0.135,0.579,73.541,219512,4
+15,You'lllee,Polaris [My Hero Academia Opening 6],Polaris [My Hero Academia Opening 6],1abrDoso93LmBV6UEuS1yC,0.429,0.648,3,-9.82,1,0.0616,0.0013,0.279,0.86,189.853,91189,4
+16,UNISON SQUARE GARDEN,MODE MOOD MODE,fake town baby,1IpZhymBAfwgtL5uvmedEW,0.338,0.964,11,-2.085,1,0.207,1.2e-06,0.0594,0.524,194.373,263560,4
+17,Jósean Log,El Futuro No Existe,Alguien Como Tú,2qXwXciJwW4Qdg7KDesOCQ,0.717,0.685,4,-10.224,0,0.105,0.000101,0.204,0.479,120.086,225747,4
+18,GODA,One Punch Man (Original Soundtrack),원펀맨 Main Theme - 정의집행,3triyvMMgCpxcHkzjpiMTB,0.278,0.215,11,-15.429,0,0.0438,0.938,0.111,0.033,131.978,202568,4
+19,MrLopez2112,"Wild Side (From ""Beastars"")","Wild Side (From ""Beastars"")",2OppMWpVJYpd7aRFabrknT,0.578,0.821,5,-6.335,0,0.0657,0.00312,0.305,0.798,133.979,163738,4
+20,Mark Miranda Castillo,No Me Rendiré,No Me Rendiré,4ccDby3VI3M3vmBK7VMo66,0.704,0.271,9,-14.895,1,0.0428,6.22e-05,0.162,0.478,119.918,138000,4
+21,Skoop On Somebody,Singles 2002-2006,Happypeople,4K8eSyKrx3KyS4GltSZkyT,0.776,0.853,7,-6.429,1,0.0485,0.0,0.348,0.796,110.112,223707,4
+22,Nose!,Dejar de Pensar en Ti,Dejar de Pensar en Ti,7ml6ki8e1aVr0EZcYZ1ELN,0.557,0.955,2,-3.962,1,0.0794,0.00139,0.286,0.554,110.017,206517,4
+23,Various Artists,カードキャプターさくら ソングコレクション 1999.4~2001.2,扉をあけて,0DO0NtFn6hB4Brt44Z8Tkz,0.684,0.914,7,-5.115,1,0.046,0.000293,0.167,0.711,121.018,282907,4
+24,Champ Jr.,Despedida,Despedida,5KUTr1CV83xYKzHOBAOGEr,0.683,0.675,9,-5.766,0,0.167,2.97e-06,0.0862,0.754,172.999,158500,3
+25,A V I A N D,"United States of Smash! (From ""Boku no Hero Academia Season 3"")","United States of Smash! (From ""Boku no Hero Academia Season 3"")",6du60U7jUiFmk0QLq5nvHI,0.338,0.62,0,-7.401,0,0.0386,0.953,0.352,0.136,100.09,81433,4
+26,Various Artists,「風夏」 サウンドコレクション,Climber's High! The fallen moon ver.,5ZNE6XzjdKF6XGqetttcpE,0.448,0.975,11,-3.248,0,0.0682,0.0,0.0514,0.603,179.032,240400,4
+27,Matteo Leonetti,"Anime Italian, Vol. 1",Sono Chi No Sadame (JoJo's Bizarre Adventure),1HpwPWCFhKyZB7tCKtZT8h,0.435,0.886,7,-11.284,0,0.141,0.0,0.346,0.419,146.072,263000,4
+28,Plutonio de Alto Grado,Sueños Alternativos,Flaca Psicodélica,5XZJYImqFBKoGjnLNbbTEh,0.359,0.944,10,-3.776,1,0.0966,0.0,0.301,0.644,196.951,197022,4
+29,Various Artists,Disney Villanos,"Influencia En El Más Alla - De ""La Princesa y El Sapo""",3kqP5Jy6R5pJNGfIXl6FyN,0.391,0.62,9,-6.728,0,0.237,0.0,0.233,0.512,167.967,216360,4
