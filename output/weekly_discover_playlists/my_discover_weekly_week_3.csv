@@ -1,0 +1,31 @@
+,artist,album,track_name,track_id,danceability,energy,key,loudness,mode,speechiness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature,acousticness
+0,Porta,Libérate,Libérate,71Z6QA4Zezn76fkJNyizrV,0.755,0.808,7,-6.591,1,0.379,0,0.0816,0.525,92.262,182870,4,0.135
+1,Destripando la Historia,Hestia,Hestia,2W8cCrU5XzFGE8sl5SxtJu,0.858,0.574,6,-5.931,1,0.0632,0,0.301,0.938,121.998,212828,4,0.46
+2,Brian the Sun,Lonely Go! (Another Edition),Lonely Go!,4keISaGHMbtgwOaTCUBfzT,0.477,0.979,8,-1.65,1,0.0933,0,0.333,0.449,102.036,238507,4,8.09e-05
+3,Say Ocean,Primer Lugar,Primer Lugar,0meCAzWjALDb070H6L9DsS,0.668,0.942,10,-1.859,0,0.134,0,0.0955,0.813,147.997,212939,4,0.044
+4,Alvei,Summertime Trap Ver.,Summertime Trap Ver.,79IMx3KnX1LDuKRcO7Uwfh,0.846,0.366,9,-8.304,1,0.191,0.00257,0.0837,0.873,125.129,123115,4,0.0281
+5,UVERworld,All Time Best,CORE PRIDE,6VQGwkK0U0YcLJcr348Wqz,0.468,0.97,2,-2.974,0,0.179,0,0.253,0.499,92.732,257560,4,0.00629
+6,Ash_sing_Gg,Mi Vida Hoy,Mi Vida Hoy,2Zoz6aFgv8QyPbGJeZwuHf,0.608,0.718,1,-8.625,1,0.117,0,0.161,0.456,133.869,109087,4,0.00206
+7,Arath Herce,Miedo,Miedo,6L1lbhoM9ZW3M6Bof7D03S,0.702,0.336,8,-6.95,0,0.0392,2.32e-06,0.098,0.451,100.043,194325,3,0.498
+8,Los Daniels,Déjame,Déjame,2pBgJhi8ITL1L60jU68oIh,0.581,0.859,1,-4.314,0,0.0318,1.65e-06,0.103,0.732,86.446,212866,4,0.0208
+9,Genitallica,Irresistible,Irresistible,1v7ESsYjKdjZitF3vR0hhO,0.53,0.77,9,-5.417,1,0.0931,6.53e-05,0.0677,0.824,172.016,228451,4,0.0143
+10,Melodycans,Ya No Llores,Ya No Llores,2wM8p3a92XUu2k0WNIvYKg,0.581,0.89,4,-4.678,1,0.0463,0,0.0716,0.93,169.986,195356,4,0.138
+11,Mägo de Oz,30 años 30 canciones,El cantar de la luna oscura - Versión 2006,4SfHV0FSozHwMAo3u9q1wu,0.318,0.91,2,-3.494,0,0.109,5.61e-05,0.18,0.654,127.518,313400,4,0.387
+12,Carreyó,Jaime,Jaime,578MqCfrp5DcmanbpDg882,0.781,0.405,1,-7.837,0,0.0343,0,0.0811,0.444,105.013,278619,3,0.619
+13,Meimuna,Meimuna,La tristesse du diable,2Wm9L8AVKOjGpwI3rb6sZF,0.401,0.206,10,-15.689,0,0.0366,0.224,0.0937,0.179,129.941,210538,4,0.896
+14,Shayne Orok,"Yume no You na (From ""Dr. Stone"")","Yume no You na (From ""Dr. Stone"")",4DYYg2XEBV32qNlrhTuPfU,0.63,0.665,2,-6.841,0,0.0666,0,0.42,0.681,89.046,87333,4,0.193
+15,Werevertumorro Crew,Dame una oportunidad,Dame una oportunidad,14511hupF3QQzxdsrdhCDv,0.537,0.938,4,-6.038,1,0.0672,0,0.0905,0.755,152.941,196471,4,0.00499
+16,Various Artists,"Star Talent Anime Concert, Vol. 1",Blue Dream,10RfOpNojeT8HkxqLQ4GJW,0.467,0.486,5,-10.832,1,0.035,1.43e-05,0.105,0.232,142.297,251440,4,0.347
+17,Los Chotgun,Miel,Miel,4ppVoiW1Q7poqsOzfw5L2y,0.725,0.756,0,-5.336,1,0.0527,6.48e-06,0.638,0.596,92.003,261092,4,0.284
+18,Erick Mendoza,Enredados,En Francés,2MkcvDpffZvg4rliSOYD3x,0.708,0.344,2,-9.026,1,0.0349,0,0.33,0.592,116.897,216556,4,0.911
+19,Rod,La Chica Que Se Va,La Chica Que Se Va,3FdTSAoRS6ABk7CNeCwF9w,0.721,0.57,2,-11.734,0,0.0718,0,0.108,0.394,95.905,251242,4,0.13
+20,Los Rumberos,Cuba Pintada,Fuiste Mía,4S0DknFoMXHlC4bh01u5k5,0.667,0.666,0,-8.739,0,0.108,0,0.11,0.731,93.924,184773,4,0.665
+21,Santa RM,"Rapeate Algo, vol. 1",Sin Rencores (Remix),7rrBkVKcfc674uPTJnyQlV,0.616,0.572,9,-5.803,1,0.0783,0.000377,0.27,0.853,79.707,227187,4,0.946
+22,Christianvib,Gary Vuelve a Casa,Gary Vuelve a Casa,2IUZptX135r2JJfyo43HN7,0.58,0.421,7,-10.225,1,0.049,0,0.105,0.736,169.883,107023,4,0.719
+23,Gisell,"Y tú sabrás, Encantada","Y tú sabrás, Encantada",2uTb9rhZLPU1PUql2A5Zzm,0.592,0.565,9,-12.154,1,0.1,0,0.0576,0.608,86.952,241215,4,0.449
+24,Sabino,Ñam Ñam Extravagan-Sab,Ñam Ñam Extravagan-Sab,6Z1irmntA9DkveWzjrzAPR,0.796,0.766,10,-5.694,0,0.212,0,0.828,0.651,98.006,101633,4,0.0781
+25,Beverly,INFINITY,Again,033N6KvyFguBKLG7Hv4RP2,0.681,0.692,1,-4.09,0,0.0247,0,0.091,0.315,129.968,293467,4,0.474
+26,Nunca Jamas,Seis Tragos,Seis Tragos,0IZ7KJIuYysWvbWt1p5Wd4,0.473,0.81,11,-4.223,1,0.0336,0,0.109,0.405,79.999,166559,4,0.1
+27,Los Master Plus,Máxima Temperatura,Máxima Temperatura,2fxs5wspT3OXFgpyApelng,0.734,0.914,9,-4.454,1,0.137,0,0.102,0.894,81.479,179724,4,0.434
+28,Lola Club,Vegas,Vegas,7Aqkigm4DEtRg0mCmMfb1l,0.662,0.772,2,-4.792,1,0.0311,4.17e-05,0.102,0.609,94.984,234107,4,0.208
+29,Kikin y Los Astros,Mi Corazón Encantado,Mi Corazón Encantado,0rpsnFJiRXhw49310tjzzE,0.709,0.592,5,-8.493,1,0.0282,0.000122,0.102,0.52,121.467,283707,4,0.16
